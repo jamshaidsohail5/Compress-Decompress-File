@@ -1,0 +1,33 @@
+Assignment 1
+Due date: Wednesday 9th March (at the start of class)
+
+
+Chapter 1 & 2
+
+Part 1
+
+1-6
+1-7
+1-9
+1-11 (b)
+1-14
+1-16
+2-2 (c)
+2-3(a)
+2-6 (c) (b)
+2-7(a)
+2-10(b)
+		2-12 (a)
+2-14(b)
+2-17(b)
+2-20(a)
+2-23 (b)
+
+Part 2: Ideal Toy Company has to develop a new toy “Magic-Bulb”. Magic-Bulb is a box having 8 buttons and 8 bulbs on it. Buttons are associated with numbers 0 to 7 (i.e. 1 number written on 1 button). For any number pressed by user Magic-Bulb turns a specific bulb on. Bulbs “Green”, “Yellow”, “Pink”, “Orange”, “Red”, “Purple”, ”Blue” and ”White” are associated with numbers 0, 1, 2, 3, 4, 5, 6 and 7 respectively. Your task is to design Logic diagram for Magic-Bulb’s circuit using the concepts studied so far.
+a.	Make truth table for Magic-Bulb
+b.	Write functions equations using AND and NOT operations only
+c.	Write functions equations using OR and NOT operations only
+d.	Draw logic circuit diagram for part b
+e.	Draw logic circuit diagram for part c
+
+
